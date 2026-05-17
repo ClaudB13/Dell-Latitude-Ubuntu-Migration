@@ -7,7 +7,7 @@ A comprehensive documentation of a successful operating system recovery on a Del
 ---
 
 ## Hardware Environment
-* **Device:** Dell Latitude 7420 Laptop
+* **Device:** Dell Latitude 7420 Laptop (Repurposed hardware) 
 * **Storage:** Internal NVMe SSD (Originally formatted with NTFS, Windows 11, and BitLocker Encryption)
 * **Target OS:** Ubuntu Linux 24.04 / 26.04 LTS
 * **Installation Media:** 8GB+ USB Flash Drive
